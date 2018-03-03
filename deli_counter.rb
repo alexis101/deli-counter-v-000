@@ -14,4 +14,3 @@ else
     puts "The line is currently: #{line_positions.join(" ")}"
   end
 end
-
